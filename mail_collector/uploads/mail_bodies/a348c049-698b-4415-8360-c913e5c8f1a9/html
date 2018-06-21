@@ -1,0 +1,1141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<meta name="x-apple-disable-message-reformatting" />
+<title>Udemy</title>
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab:300,400,600');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle; 
+font-size: 9px; 
+border: none; 
+font-weight: 700; 
+line-height: 1.5; 
+text-align: center; 
+text-transform: uppercase;    
+}
+.bottomSpacer {padding-bottom: 25px !important;}
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+} 
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important; 
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}	
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+.heroHeadline {font-size: 30px !important; line-height: 32px !important;} .topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px 35px 0px !important;} .heroDisclaimer {background: #ffffff !important; padding: 10px 0px 0px 0px !important;}
+}</style></head>
+<body width="100%" style="min-width:100% !important; margin:0 !important; padding: 0 !important;"><table cellpadding="0" cellspacing="0" style="border: 0px; padding: 0px; margin: 0px; position: absolute; display: none; float: left">
+<tr>
+<td height="1" style="font-size: 1px; line-height: 1px; padding: 0px;">
+<img src="https://email.udemy.com/pub/as?_ri_=X0Gzc2X%3DYQpglLjHJlYQGi1WOmga2WgzaRcaDCrRaXTWnGYczae5yHKW8ihapqzfnf2kTTGzcHiD64qn7EP8eRSLHOVXHkMX%3Dw&_ei_=EolaGGF4SNMvxFF7KucKuWOf3ajhL3j1vhSEIMweqJLjk5ghreYvfs0u008buVWBoRahVbhtlDsK."></img>
+</td>
+</tr>
+</table>
+
+
+<!--[if mso]><style type="text/css">body, table, td, a {font-family: Helvetica, Arial, sans-serif !important;}</style><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" style="position: absolute; display: none; float: left">
+<tr>
+<td height="1" style="font-size: 1px; line-height: 1px; padding: 0px;">
+<img height="1" width="1" style="padding: 0px 0px; !important; margin: 0px 0px; font-size: 1px; line-height: 1px;" alt="" src="https://email.udemy.com">
+</td>
+</tr>
+</table>
+<!-- WRAPPER -->
+<table width="660" border="0" cellpadding="0" cellspacing="0" align="center" id="container" >
+<tr>
+<td width="100%" style="min-width: 100%;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%; display:block;" >
+<tr>
+<td width="100%" align="center" style="display:block; text-align:center; vertical-align:top; font-size:16; min-width:100%;">
+<!-- PREHEADER --> 
+<div style="overflow:hidden;display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;">The more you know, the more you grow. We think you might like these IT and Software courses. Get one today for just US$9.99.</div>
+<!-- // PREHEADER -->
+
+
+<!-- HEADER -->
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0"  bgcolor="#ffffff">
+<tr>
+<td width="30" style="min-width:30px;">&nbsp;</td>
+<!--[if !mso]><!-- --><td class="navBarImage mobileNavBarImage" width="100%" align="center" style="padding: 5px 0px;"><!--<![endif]-->
+<!--[if mso]><td width="30%" align="left" style="padding: 5px 0px;"><![endif]-->
+<a href="https://www.udemy.com/courses?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=HEADER" target="udemy"><img class="navBarImage mobileNavBarImage" width="100%" style="max-width:150px;" src="https://s3.amazonaws.com/udemy-images/fb/email/global/header/Udemy-logo-email-desktopTM.png"></a>
+</td>
+<!--[if !mso]><!-- --><td valign="top" class="desktopNavBarText" align="right" style="padding-top: 25px; display:none; color: #666666; font-size: 18px;"><!--<![endif]-->
+<!--[if mso]><td align="right" style="color: #666666; font-size: 18px;padding-top: 25px;"><![endif]-->
+<a href="https://www.udemy.com/home/my-courses/learning/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=HEADER" style="text-decoration: none;color:#666666;">My Courses</a> | <a href="https://www.udemy.com/courses/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=HEADER" style="text-decoration: none;color:#666666;">Featured</a></td>
+<td width="30" style="min-width:30px;">&nbsp;</td>
+</tr> 
+</table>
+<!-- // HEADER -->
+
+
+
+
+
+
+
+
+
+<!-- EMAIL CONTENT -->
+
+
+<!-- Style D&Vs for module are: LEFT_COLOR, RIGHT_COLOR, HEADLINE_COPY_COLOR, SUBHEAD_COPY_COLOR, CTA_COPY_COLOR, BUTTON_COLOR -->
+<table width="660" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#fca039" class="deviceWidth" style="width: 100%; max-width: 660px; background: linear-gradient(to left, #fca039 0%, #fa9a36 100%);">
+<tr>
+<!-- To change spacing of above headline, add .topSpacer to CUSTOM_STYLE or MOBILE_STYLE D&V -->
+<td width="100%" class="topSpacer" style="padding-top:45px;">
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="deviceWidth">
+<tr>
+<!-- This td sets a left margin of 10% around headline, subhead, and CTA -->
+<td rowspan="3" width="10%">&nbsp;</td>
+<td align="center" style="text-align:center;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<!-- To change font size and line height from default, add .heroHeadline to CUSTOM_STYLE and MOBILE STYLE D&Vs. i.e. MOBILE_STYLE = .heroHeadline {font-size: 38px !important; line-height: 42px !important;} CUSTOM_STYLE = .heroHeadline {font-size: 38px !important; line-height: 42px !important;} -->
+<td class="heroHeadline" style="font-weight: 600; font-size: 40px; line-height: 42px; color:#ffffff; text-align: center;"><a href="https://www.udemy.com/courses/featured?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=GRADIENT_HERO_CTA" style="text-decoration: none;color:#ffffff;">US$9.99 June Blowout</a></td>
+</tr>
+</table>
+</td>
+<!-- This td sets a right margin of 10% around headline, subhead, and CTA -->
+<td rowspan="3" width="10%">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style="text-align:center;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<!-- To change font size and line height from default, add .heroSubhead to CUSTOM_STYLE and MOBILE STYLE D&Vs. -->
+<td class="heroSubhead" style="padding: 20px 0px 0px 0px; width: 100%; font-size: 18px; line-height: 22px; color:#ffffff; text-align: center;"><a href="https://www.udemy.com/courses/featured?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=GRADIENT_HERO_CTA" style="text-decoration: none;color:#ffffff;">Enroll in a course at our lowest price during our sitewide sale!*</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- CTA -->
+<tr>
+<!-- This cell has px padding for as middle ground solution for clients that don't render % padding listed in the nested cell -->
+<td align="center" style="padding: 0px 0px 0px 0px; text-align:center;">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="text-align:center; table-layout: fixed;">
+<tr>
+<!-- To change spacing between button and image, add .bottomSpacer to CUSTOM_STYLE or MOBILE_STYLE D&V -->
+<td class="bottomSpacer" align="center" style="text-align:center; padding: 30px 0px 50px 0px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="text-align:center; table-layout: auto;">
+<tr>
+<td align="center" style="text-align:center;">
+<!-- To change font size and line height from default, add .heroCTA to CUSTOM_STYLE and MOBILE STYLE D&Vs. -->
+<a class="heroCTA" href="https://www.udemy.com/courses/featured?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=GRADIENT_HERO_CTA" target="_blank" style="font-size: 18px; color:#ffffff; text-decoration: none; border-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2px; background-color:#ec5252; border-top: 11px solid #ec5252; border-bottom: 12px solid #ec5252; border-right: 25px solid #ec5252; border-left: 25px solid #ec5252; display: inline-block; text-align:center; margin: 0 auto !important;">Shop US$9.99 courses</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- IMAGE -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="display:block; min-width:100% !important;">
+<tr>
+<td>
+<a href="https://www.udemy.com/courses/featured?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=IMAGE_1x1" target="udemy"><img width="100%" style="max-width:100%; display:block;" alt="The more you know, the more you grow. We think you might like these IT and Software courses. Get one today for just US$9.99." src="http://mi.udemy.com/p/rp/7d8bc6e06c656fa2.png?"></a>
+</td>
+</tr>
+</table>
+<!-- // IMAGE -->
+
+<table class="heroDisclaimer" width="100%" border="0" cellpadding="0" cellspacing="0" align="left" style="width: 100%; min-width: 100% !important; max-width: 660px; background-color:#edece6;"><tr><td class="heroDisclaimer" align="left" style="padding: 10px 0px 0px 25px; text-align:left; color: #666666; font: inherit !important; font-size: 12px !important;"> *not all courses qualify</td></tr></table>
+
+
+
+
+
+<!-- To use this module, set the following in defaults and variables. You can change RANK to match 1 or 2. 1 is most relevant cross poll level -->
+<!-- CROSS_CAT = LOOKUPRECORDS(!MasterData, CROSS_POLLINATION_CAT, PAIRS(FIRST_CAT, LOOKUP(CATID_1), RANK, 1), SECOND_CAT) -->
+<!-- CROSS_SUBCAT = LOOKUPRECORDS(!MasterData, CROSS_POLLINATION_SUBCAT, PAIRS(FIRST_SUBCAT, LOOKUP(SUBCATID_1), RANK, 1), SECOND_SUBCAT) -->
+
+<!-- first four setvars are lists of the cross pollination subcategory and category courses in the user's preferred course language 1 and 2 -->
+
+
+
+
+
+
+
+
+<!-- determines whether a user has at last one subcategory cross pollination course, else nothing -->
+
+<!-- MODULE -->
+<table class="mobileColor" class="deviceWidth" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="display:block; min-width:100%;background-color:#edece6;">
+<tr>
+<!-- MODULE TITLE -->
+<td>&nbsp;</td>
+<td class="moduleTitlePadding" align="center" width="100%" style="mso-line-height-rule:exactly;line-height: 1.3;min-width:100%;padding:25px 21px 20px 21px;font-size: 18px;"><a href="https://www.udemy.com/courses/Development/Web-Development?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" style="text-decoration: none;color: #000000;">Students interested in Programming Languages  also took these Web Development courses:</a>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<!--[if !mso]><!-- --><td colspan="3" align="center"><!--<![endif]-->
+<!--[if mso]><td colspan="3" align="center" style="padding-left: 7px;"><![endif]-->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/java-web-development-under-the-hood/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Java Web Development Under The Hood" src="https://udemy-images.udemy.com/course/200_H/1425880_004d.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Java Web Development Under The Hood
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.75</span>&nbsp;(15)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$199.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/essentials-of-spring-50-for-developers/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Essentials of Spring 5.0 for Developers" src="https://udemy-images.udemy.com/course/200_H/1248172_c66c_3.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Essentials of Spring 5.0 for Developers
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.42</span>&nbsp;(6)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$124.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/spring-and-spring-boot-projects/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Learning Path:  Spring and Spring Boot Projects" src="https://udemy-images.udemy.com/course/200_H/1089630_c36f_3.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Learning Path:  Spring and Spring Boot Projects
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.41</span>&nbsp;(10)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$199.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/how-to-use-spring-security-to-secure-your-java-applications/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Java Spring Security" src="https://udemy-images.udemy.com/course/200_H/344224_8941_2.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Java Spring Security
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.32</span>&nbsp;(23)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$39.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/python-web-programming/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Python Web Programming" src="https://udemy-images.udemy.com/course/200_H/523312_a0eb_3.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Python Web Programming
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.40</span>&nbsp;(10)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$99.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/learn-web-scraping-with-java-in-just-1-hour/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Professional Web Scraping with Java" src="https://udemy-images.udemy.com/course/200_H/756050_ceb4_3.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_1" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Professional Web Scraping with Java
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/5star.png">&nbsp;<span style="color:#666666">            5.00</span>&nbsp;(10)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$74.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD --> 
+</td>
+</tr>
+</table>
+<!-- GRAY HAIRLINE -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="display:block;mso-line-height-rule:exactly;line-height:1.5px;" bgcolor="#d5d5d5">
+<tr>
+<td class="hidden"></td>
+<td class="hidden">&nbsp;</td>
+<td class="hidden"></td>
+</tr>
+</table>
+<!-- // MODULE -->
+<!-- conditional checks that there are enough unique cat courses to show -->
+
+<!-- MODULE -->
+<table class="mobileColor" class="deviceWidth" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="display:block; min-width:100%;background-color:#edece6;">
+<tr>
+<!-- MODULE TITLE -->
+<td>&nbsp;</td>
+<td class="moduleTitlePadding" align="center" width="100%" style="mso-line-height-rule:exactly;line-height: 1.3;min-width:100%;padding:25px 21px 20px 21px;font-size: 18px;"><a href="https://www.udemy.com/courses/IT-and-Software?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" style="text-decoration: none;color: #000000;">Students interested in Development also took these IT and Software courses:</a>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<!--[if !mso]><!-- --><td colspan="3" align="center"><!--<![endif]-->
+<!--[if mso]><td colspan="3" align="center" style="padding-left: 7px;"><![endif]-->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/generics-in-net/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Generics in .NET" src="https://udemy-images.udemy.com/course/200_H/851138_41c3_2.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Generics in .NET
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.41</span>&nbsp;(10)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$49.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/hibernate-and-java-persistence-api-jpa-fundamentals/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Hibernate and Java Persistence API (JPA) Fundamentals" src="https://udemy-images.udemy.com/course/200_H/419374_8897_5.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Hibernate and Java Persistence API (JPA) Fundamentals
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.31</span>&nbsp;(42)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$49.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/building-your-first-django-app-in-minutes/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Building Your First Django App in Minutes" src="https://udemy-images.udemy.com/course/200_H/1097590_1120_4.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Building Your First Django App in Minutes
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.43</span>&nbsp;(10)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$94.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/improving-your-workflow-with-gulp-js/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Improving your Workflow with Gulp JS" src="https://udemy-images.udemy.com/course/200_H/375624_bc3f_4.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Improving your Workflow with Gulp JS
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/5star.png">&nbsp;<span style="color:#666666">            4.77</span>&nbsp;(10)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$49.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/learning-c-design-patterns/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Learning C# Design Patterns" src="https://udemy-images.udemy.com/course/200_H/460700_a8d0_4.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Learning C# Design Patterns
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.29</span>&nbsp;(20)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$49.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD -->
+
+
+
+
+ 
+<!-- COURSE CARD -->
+<div style="display:inline-block;">
+<table class="mobileCourseLine" cellpadding="0" cellspacing="0" border="0" align="left">
+<tr>
+<td class="mobileCoursePadding" width="190" style="padding: 0px 7.5px 20px 7.5px;"><a href="https://www.udemy.com/learning-apache-maven/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" style="text-decoration: none;">
+<!-- COURSE IMAGE -->
+<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;" class="courseCardTop">
+<tr>
+<td style="display: block;"><img class="courseImage" img alt="Learning Apache Maven" src="https://udemy-images.udemy.com/course/200_H/475022_0312_4.jpg?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CROSS_POLL_CAT_SUBCAT_2" width="190px" style="max-width:190; height:107px; display:block;"> 
+<table class="badgeContainer" align="left" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" style="display:block;">
+<tr>
+<td height="4px" style="padding: 0px; font-size: 2px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="courseBadge" bgcolor="#ffffff" align="center" style="padding: 2px 15px 2px 15px; ">
+
+&nbsp;
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+<!-- COURSE DESRIPTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:block;border-bottom: 2px solid #B8B8B8;" class="courseCardBottom" bgcolor="#ffffff">
+<tr height="88" class="titleHeight">
+<td class="titlePadding" width="380" style="text-align:left; padding:4px 10px 0px 10px;font-size: 15px; color: #333333;line-height:1.2 !important; word-wrap: break-word;" valign="top">Learning Apache Maven
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="left" style="text-align:left; padding:0px 10px 8px 10px; font-size:12px; color:#999999; text-decoration:none;"><img width="75" img height="12" style="display:inline;" src="http://udemy-images.s3.amazonaws.com/fb/email/global/2014/4p5star.png">&nbsp;<span style="color:#666666">            4.47</span>&nbsp;(23)
+</td>
+</tr>
+<tr>
+<td class="starPricePadding" valign="top" align="right" style="text-align:right; padding:10px 15px 10px 10px; font-size:13px; color:#999999;">
+
+<span style="font-size:12px; text-decoration: line-through">US$49.99</span>&nbsp;&nbsp;<span style="font-size:16px; font-weight:600; color:black;">US$9.99</span>
+</td>
+</tr>
+</table></a>
+</td>
+</tr>
+</table>
+</div>
+<!-- // COURSE CARD --> 
+</td>
+</tr>
+</table>
+<!-- GRAY HAIRLINE -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="display:block;mso-line-height-rule:exactly;line-height:1.5px;" bgcolor="#d5d5d5">
+<tr>
+<td class="hidden"></td>
+<td class="hidden">&nbsp;</td>
+<td class="hidden"></td>
+</tr>
+</table>
+<!-- // MODULE -->
+
+
+<!--[if mso]>
+<table width="660" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<table width="660" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+<tr>
+<!-- MODULE TITLE -->
+<td width="100%" valign="middle" bgcolor="#edece6" align="center" style="min-width:100%; padding:25px 21px 25px 21px; background-color:#edece6;"><a href="https://www.udemy.com/courses/featured?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=CATEGORY_TILES" target="udemy" style="text-decoration: none; font-size: 18px; color: #1e2c35;">Get started with top categories:</a>
+</td>
+<!-- // MODULE TITLE -->
+</tr>
+<tr>
+<!-- TILES -->
+<td width="100%" align="center" valign="top" style="min-width: 100%; text-align: center; vertical-align: top; background: #edece6; padding: 0px 5px 20px 5px;">
+<!--[if mso]>
+<table width="660" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#edece6" style="background: #edece6; width: 660px;">
+<tr>
+<td width="216" align="center" style="width: 216px !important; text-align: middle; padding-bottom: 5px;">
+<![endif]-->
+<div style="display: inline-block; padding: 0px 0px 0px 0px; width: 31%; min-width: 150px; text-align: center;">
+<a href="https://www.udemy.com/courses/Development/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=categorybutton_1" target="udemy"><img src="http://mi.udemy.com/p/rp/0fed2d0680fa0d24.png?mi_u=18555099625&catid=288&mi_name=Development" alt="Development" border="0" style="width: 100%; display: block;" /></a>
+</div>
+<!--[if mso]>
+</td>
+<td width="216" align="center" style="width: 216px !important; text-align: middle; padding-bottom: 5px;">
+<![endif]-->
+<div style="display: inline-block; padding: 0px 0px 0px 0px; width: 31%; min-width: 150px; text-align: center;">
+<a href="https://www.udemy.com/courses/Photography/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=categorybutton_2" target="udemy"><img src="http://mi.udemy.com/p/rp/0fed2d0680fa0d24.png?mi_u=18555099625&catid=273&mi_name=Photography" alt="Photography" border="0" style="width: 100%; display: block;" /></a>
+</div>
+<!--[if mso]>
+</td>
+<td width="216" align="center" style="width: 216px !important; text-align: middle; padding-bottom: 5px;">
+<![endif]-->
+<div style="display: inline-block; padding: 0px 0px 0px 0px; width: 31%; min-width: 150px; text-align: center;">
+<a href="https://www.udemy.com/courses/Business/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=categorybutton_3" target="udemy"><img src="http://mi.udemy.com/p/rp/0fed2d0680fa0d24.png?mi_u=18555099625&catid=268&mi_name=Business" alt="Business" border="0" style="width: 100%; display: block;" /></a>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+<tr>
+<td width="216" align="center" style="width: 216px !important; text-align: middle; padding-bottom: 5px;">
+<![endif]-->
+<div style="display: inline-block; padding: 0px 0px 0px 0px; width: 31%; min-width: 150px; text-align: center;">
+<a href="https://www.udemy.com/courses/Design/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=categorybutton_4" target="udemy"><img src="http://mi.udemy.com/p/rp/0fed2d0680fa0d24.png?mi_u=18555099625&catid=269&mi_name=Design" alt="Design" border="0" style="width: 100%; display: block;" /></a>
+</div>
+<!--[if mso]>
+</td>
+<td width="216" align="center" style="width: 216px !important; text-align: middle; padding-bottom: 5px;">
+<![endif]-->
+<div style="display: inline-block; padding: 0px 0px 0px 0px; width: 31%; min-width: 150px; text-align: center;">
+<a href="https://www.udemy.com/courses/Health-and-Fitness/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=categorybutton_5" target="udemy"><img src="http://mi.udemy.com/p/rp/0fed2d0680fa0d24.png?mi_u=18555099625&catid=276&mi_name=Health and Fitness" alt="Health and Fitness" border="0" style="width: 100%; display: block;" /></a>
+</div>
+<!--[if mso]>
+</td>
+<td width="216" align="center" style="width: 216px !important; text-align: middle; padding-bottom: 5px;">
+<![endif]-->
+<div style="display: inline-block; padding: 0px 0px 0px 0px; width: 31%; min-width: 150px; text-align: center;">
+<a href="https://www.udemy.com/courses/Lifestyle/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=categorybutton_6" target="udemy"><img src="http://mi.udemy.com/p/rp/0fed2d0680fa0d24.png?mi_u=18555099625&catid=274&mi_name=Lifestyle" alt="Lifestyle" border="0" style="width: 100%; display: block;" /></a>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!-- GRAY HAIRLINE  --> 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="display:block; mso-line-height-rule:exactly;line-height:1.5px;" bgcolor="#d5d5d5">
+<tr>
+<td class="hidden"></td>
+<td class="hidden">&nbsp;</td>
+<td class="hidden"></td>
+</tr>
+</table>
+<!-- // GRAY HAIRLINE  -->
+
+
+
+
+
+
+
+
+
+<!-- 
+ -->
+<!-- FOOTER-->
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#1A263A" style="padding:0px 30px !important; background-color:#1A263A">
+<table width="100%" border="0" cellpadding="0"  cellspacing="0" style="color: #ffffff;text-align: center;font-size: 14px;">
+<tr><td height="24px">&nbsp;</td></tr>    
+<tr>
+<td style="font-color: #ffffff; font-size:16px; font-weight:bold;">
+<a href="https://www.udemy.com/email/unsubscribe/?email_data=eyJub3RpZl90eXBlIjoiZGlzYWJsZUFsbEVtYWlscyIsImVtYWlsIjoidmlob3RydXNAZ21haWwuY29tIn0:1fLsaL:StscbOvHDOkuDgfQ9zsa_5UeeFQ&email=vihotrus@gmail.com&deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&utm_term=unsub" target="udemy" style="text-decoration:none; color: #ffffff">UNSUBSCRIBE</a>&nbsp; |&nbsp; <a href="https://support.udemy.com/hc/en-us/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=FOOTER_DEAL" target="udemy" style="text-decoration:none; color: #ffffff; font-weight:bold;">SUPPORT</a>&nbsp; |&nbsp; <a href="https://email.udemy.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DYQpglLjHJlYQGi1WOmga2WgzaRcaDCrRaXTWnGYczae5yHKW8ihapqzfnf2kTTGzcHiD64qn7EP8eRSLHOVXMtX%3DYQpglLjHJlYQGt1Wzgt2BOCyt8nCh2dE8pOF3SjW1KM6jmmHRiEjTb1kfE5lrtBB8WEgdi9MktzcyDnR&_ei_=EolaGGF4SNMvxFF7KucKuWOf3ajhL3j1vhSEIMweqJLjk5ghreYvfs0u008buVWBoRahVbhtlDsK" style="text-decoration:none; color:#ffffff; font-weight:bold;"><span style="white-space: nowrap;">VIEW ONLINE</span></a>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px 10px 5px 10px; text-decoration: none !important; color:#ffffff !important; font-size: 14px;"><span class="appleFooter">Udemy.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA</span>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px 10px 24px 10px; font-color:#ffffff; font-size:14;"><a href="https://www.udemy.com/careers?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=FOOTER_DEAL" target="udemy" style="text-decoration: underline; color: #ffffff">Careers at Udemy</a>&nbsp;| <a href="https://business.udemy.com/?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=?ref=email-footer" style="text-decoration:underline; color:#ffffff;">Get Udemy at Work</a> | <a href="https://www.udemy.com/teaching?deal_code=1806JUNESALEUBASE10&utm_source=email-Adhoc&utm_campaign=2018-06-10_._cn_JUNE_._en_XPOLL_._us_AllAlltl_T3_._tg_n_._et_2_._eg_1_._la_en_._rn_43261_._&utm_medium=2018-06-10_JUNE_XPOLL_AllAll_T3_n_&utm_content=udemy.6884005&data_h=AkUcc1ZbRH4=&amp;utm_term=FOOTER_DEAL" target="udemy" style="text-decoration: underline; color:#ffffff"><span style="white-space: nowrap;">Become an Instructor</span>
+</a>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px 10px 10px 0px; text-decoration: none; font-weight:bold;color:#ffffff;">Download our apps for Offline Coursetaking
+</td>
+</tr>
+<tr>
+<td align="center" style="padding-top:8px; text-align:center;">
+<table align="center" width="100%" style="table-layout: fixed;">        
+<tr>
+<td align="center" >
+<table align="center" style="text-align:center; table-layout: auto;">             
+<tr>
+<td>
+<a style="text-decoration:none;" href="https://itunes.apple.com/app/apple-store/id562413829?pt=1240482&ct=UdemyWelcomeEmail-Footer&mt=8" target="udemy"><img border="0" src="https://s3.amazonaws.com/udemy-images/email/apple_logo.png"></a>
+</td> 
+<td style="padding-left:12px; padding-right:12px;">
+&nbsp;  
+</td>
+<td>
+<a style="text-decoration:none;" href="https://play.google.com/store/apps/details?id=com.udemy.android"><img border="0" src="https://s3.amazonaws.com/udemy-images/email/Android_logo.png"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>  
+</td>
+</tr>
+<tr>
+<td>
+<!--[if mso]>
+<table width="600" align="center" style="text-align:center;">
+<tr>
+<td align="center" style="text-align:center;">
+<![endif]-->
+<table align="center" width="100%" style="min-width: 100%;">
+<tr>
+<td width="100%" style="width:100%; border-bottom:2px solid #ffffff;"> 
+&nbsp;
+</td>
+</tr>
+</table>
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td width="100%" align="center" style="padding:12px 0px 24px 0px; font-size:11px;">
+<a class="dealTerms" href="http://udemy-images.s3.amazonaws.com/fb/email/2015/Terms/fixedPriced_coupon_terms.html" target="udemy" style="text-decoration:none; color:#ffffff;">*Some exclusions apply.</a> <span class="appleFooter" style="text-decoration:none;">Coupon code expires 2018-06-13 07:00 AM GMT.<span class="addTerms" style="font: inherit;"><br/></span></span>
+</td>
+</tr>
+<tr>
+<td width="100%" align="center" style="padding:0px 0px 5px 0px; font-weight:bold; font-size:14px;">
+Connect with us
+</td>
+</tr>
+<tr>
+<td align="center" style="padding-top:8px; text-align:center;">
+<table align="center" width="100%" style="table-layout: fixed;">        
+<tr>
+<td align="center" >
+<table align="center" style="text-align:center; table-layout: auto;">             
+<tr>
+<td>
+<a style="text-decoration:none;" href="https://www.facebook.com/udemy/" target="udemy"><img border="0" src="https://s3.amazonaws.com/udemy-images/email/Facebook_logo.png"></a>
+</td> 
+<td style="padding-left:12px; padding-right:12px;">
+&nbsp;  
+</td>
+<td>
+<a style="text-decoration:none;" href="https://twitter.com/udemy"><img border="0" src="https://s3.amazonaws.com/udemy-images/email/Twitter_logo.png"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>  
+</td>
+</tr>
+<tr><td height="24px">&nbsp;</td></tr>    
+</table>
+</td>
+</tr>
+</table>
+<!-- // FOOTER --><!-- // EMAIL CONTENT -->
+</td>
+</tr>
+<tr><td><!-- Perfect Audience - All Users Ongoing - DO NOT MODIFY --><img src="http://ads.perfectaudience.com/seg?add=1309468&t=2" width="1" height="1" border="0" /><!-- End of Audience Pixel --></td></tr>
+<tr><td><img src="https://page-events-ustats.udemy.com/api-2.0/visits/me/page-events/track/email/?courses=1425880_1248172_1089630_344224_523312_756050_851138_419374_1097590_375624_460700_475022_&campaign_id=udemy.6884005&hash=AkUcc1ZbRH4=&send_date=2018_06_10_03_49_05" width="1" height="1" border="0" /></td></tr>
+</table>
+</td>
+</tr>
+</table><br>
+</body>
+</html>
+
+

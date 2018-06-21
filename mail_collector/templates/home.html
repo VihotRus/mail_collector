@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Email collector home page</h1>
+    <form method="POST", enctype=multipart/form-data>
+    <div>
+        <p>Upload Packages:</p>
+        <p><input id="upload_button" type="file" class="btn btn-default btn-xs" name="file"></p>
+        <p><input id="submit_button" type="submit" class="btn btn-success" value="Upload">
+    </div>
+    </form
+{% endblock content %}

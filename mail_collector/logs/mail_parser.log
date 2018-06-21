@@ -1,0 +1,915 @@
+2018-06-14 19:41:27,622 - mail_parser - INFO - Not email, file deleted
+2018-06-14 19:41:55,320 - mail_parser - INFO - The email saved
+2018-06-14 19:57:06,007 - mail_parser - INFO - Not email module_2.docx, file deleted
+2018-06-14 19:57:42,692 - mail_parser - INFO - Not email my-1.docx, file deleted
+2018-06-14 20:12:25,126 - mail_parser - INFO - The email msg6.txt saved
+2018-06-15 12:07:10,870 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 12:08:40,412 - mail_parser - INFO - The email msg6.txt saved
+2018-06-15 13:02:58,575 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 13:05:37,634 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 13:12:28,805 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 14:19:42,136 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 14:20:17,271 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 14:21:08,191 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 14:24:44,444 - mail_parser - INFO - The email msg6.txt saved
+2018-06-15 14:27:06,663 - mail_parser - INFO - The email original_msg_2.txt saved
+2018-06-15 14:27:19,117 - mail_parser - INFO - The email original_msg_1.txt saved
+2018-06-15 14:27:25,060 - mail_parser - INFO - The email original_msg.txt saved
+2018-06-15 14:27:37,354 - mail_parser - INFO - Not email putty-64bit-0.70-installer.msi, file deleted
+2018-06-15 15:39:47,188 - mail_parser - INFO - The email mail1 saved
+2018-06-15 15:40:03,879 - mail_parser - INFO - The email mail1 saved
+2018-06-15 15:40:08,087 - mail_parser - INFO - The email mail1 saved
+2018-06-15 15:40:33,500 - mail_parser - INFO - The email mail1 saved
+2018-06-15 15:40:36,485 - mail_parser - INFO - The email mail2 saved
+2018-06-15 15:40:39,468 - mail_parser - INFO - The email mail3 saved
+2018-06-15 15:40:41,741 - mail_parser - INFO - The email mail4 saved
+2018-06-15 15:40:44,479 - mail_parser - INFO - The email mail5 saved
+2018-06-15 15:40:47,045 - mail_parser - INFO - The email mail6 saved
+2018-06-15 15:40:50,253 - mail_parser - INFO - The email mail7 saved
+2018-06-15 15:40:53,503 - mail_parser - INFO - The email mail8 saved
+2018-06-15 15:41:04,025 - mail_parser - INFO - Not email test, file deleted
+2018-06-15 15:53:08,878 - mail_parser - INFO - Not email test, file deleted
+2018-06-15 15:56:50,901 - mail_parser - INFO - The email 1.txt saved
+2018-06-15 16:00:30,825 - mail_parser - INFO - The email original_msg_3.txt saved
+2018-06-15 16:10:07,282 - mail_parser - INFO - The email original_msg_5.txt saved
+2018-06-18 13:18:53,317 - mail_parser - INFO - The email msg6.txt saved
+2018-06-18 15:41:12,158 - mail_parser - INFO - The email 1.txt saved
+2018-06-18 15:41:51,398 - mail_parser - INFO - The email file_file.txt saved
+2018-06-18 15:41:58,183 - mail_parser - INFO - Not email argparserPY.txt, file deleted
+2018-06-18 15:49:02,734 - mail_parser - INFO - The email msg6.txt saved
+2018-06-18 15:52:57,417 - mail_parser - INFO - The email 1.txt saved
+2018-06-18 15:53:05,398 - mail_parser - INFO - The email msg6.txt saved
+2018-06-18 15:54:11,115 - mail_parser - INFO - The email msg6.txt saved
+2018-06-18 15:55:16,302 - mail_parser - INFO - The email msg6.txt saved
+2018-06-18 15:56:35,565 - mail_parser - INFO - The email msg6.txt saved
+2018-06-18 17:35:08,827 - mail_parser - INFO - The email 1.txt saved
+2018-06-18 17:35:32,539 - mail_parser - INFO - The email msg6.txt saved
+2018-06-18 17:43:34,096 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 12:44:50,547 - mail_parser - INFO - The email original_msg_9.txt saved
+2018-06-19 14:14:22,642 - mail_parser - INFO - The email original_msg_6.txt saved
+2018-06-19 14:15:46,671 - mail_parser - INFO - The email original_msg_8.txt saved
+2018-06-19 14:25:20,895 - mail_parser - INFO - The email original_msg_5.txt saved
+2018-06-19 15:02:50,680 - mail_parser - INFO - The email msg6.txt saved
+2018-06-19 15:04:31,216 - mail_parser - INFO - The email original_msg_3.txt saved
+2018-06-19 15:06:03,104 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 15:11:40,551 - mail_parser - INFO - The email original_msg.txt saved
+2018-06-19 15:12:33,080 - mail_parser - INFO - Not email 43.docx, file deleted
+2018-06-19 15:12:47,064 - mail_parser - INFO - Not email 43.docx, file deleted
+2018-06-19 15:14:23,114 - mail_parser - INFO - The email mail1 saved
+2018-06-19 15:14:26,414 - mail_parser - INFO - The email mail2 saved
+2018-06-19 15:14:28,461 - mail_parser - INFO - The email mail3 saved
+2018-06-19 15:14:31,904 - mail_parser - INFO - Not email test, file deleted
+2018-06-19 15:15:57,992 - mail_parser - INFO - The email mail1 saved
+2018-06-19 15:21:19,268 - mail_parser - INFO - The email original_msg.txt saved
+2018-06-19 15:22:51,839 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 15:25:50,498 - mail_parser - INFO - The email file_file.txt saved
+2018-06-19 15:29:26,178 - mail_parser - INFO - The email original_msg_10.txt saved
+2018-06-19 15:31:31,230 - mail_parser - INFO - The email original_msg_11.txt saved
+2018-06-19 18:40:37,190 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 18:41:27,127 - mail_parser - INFO - The email original_msg_1.txt saved
+2018-06-19 18:49:04,889 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 18:51:55,200 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 18:54:57,650 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 18:58:12,951 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 19:00:00,856 - mail_parser - INFO - The email original_msg_5.txt saved
+2018-06-19 19:01:59,368 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 19:02:20,537 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 19:02:41,721 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 19:02:47,072 - mail_parser - INFO - The email original_msg_6.txt saved
+2018-06-19 19:03:27,920 - mail_parser - INFO - The email original_msg_6.txt saved
+2018-06-19 19:03:36,133 - mail_parser - INFO - The email 1.txt saved
+2018-06-19 19:03:39,546 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 16:18:22,455 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 16:19:28,761 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 16:22:05,230 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 16:31:34,436 - mail_parser - INFO - The email original_msg_1.txt saved
+2018-06-20 16:33:44,386 - mail_parser - INFO - The email original_msg_5.txt saved
+2018-06-20 16:34:03,761 - mail_parser - INFO - The email original_msg_6.txt saved
+2018-06-20 16:36:03,505 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 16:41:51,722 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 16:48:03,969 - mail_parser - INFO - The email original_msg_5.txt saved
+2018-06-20 16:49:03,291 - mail_parser - INFO - The email original_msg_5.txt saved
+2018-06-20 16:49:59,556 - mail_parser - INFO - The email original_msg_6.txt saved
+2018-06-20 16:50:35,758 - mail_parser - INFO - The email original_msg_1.txt saved
+2018-06-20 16:51:05,205 - mail_parser - INFO - The email msg6.txt saved
+2018-06-20 16:51:42,263 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 16:52:05,806 - mail_parser - INFO - The email msg6.txt saved
+2018-06-20 17:45:54,858 - mail_parser - INFO - Not email 7.docx, file deleted
+2018-06-20 17:50:58,291 - mail_parser - INFO - The email msg6.txt saved
+2018-06-20 17:51:43,234 - mail_parser - INFO - The email msg6.txt saved
+2018-06-20 17:52:01,405 - mail_parser - INFO - The email original_msg_1.txt saved
+2018-06-20 17:57:05,923 - mail_parser - INFO - The email mail4 saved
+2018-06-20 18:04:47,544 - mail_parser - INFO - The email msg6.txt saved
+2018-06-20 18:29:37,881 - mail_parser - INFO - The email 1.txt saved
+2018-06-20 18:50:52,724 - mail_parser - INFO - The email msg6.txt saved
+2018-06-20 18:54:37,035 - mail_parser - INFO - The email original_msg_3.txt saved
+2018-06-20 18:58:10,090 - mail_parser - INFO - The email msg6.txt saved
+2018-06-21 11:41:00,607 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:41:32,442 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:43:09,549 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:43:55,875 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:44:44,416 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:45:08,631 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:45:32,767 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:45:43,941 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:46:16,389 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:47:17,261 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:48:49,661 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:49:04,813 - mail_parser - INFO - The email original_msg_4.txt saved
+2018-06-21 11:50:34,432 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:51:38,559 - mail_parser - INFO - The email original_msg_6.txt saved
+2018-06-21 11:52:26,692 - mail_parser - INFO - The email mail5 saved
+2018-06-21 11:52:32,113 - mail_parser - INFO - The email mail1 saved
+2018-06-21 11:53:02,957 - mail_parser - INFO - The email mail1 saved
+2018-06-21 11:54:04,154 - mail_parser - INFO - The email mail1 saved
+2018-06-21 12:07:06,012 - mail_parser - INFO - The email mail1 saved
+2018-06-21 12:13:24,729 - mail_parser - INFO - The email 1.txt saved
+2018-06-21 12:13:49,312 - mail_parser - INFO - Not email argparserPY.txt, file deleted
+2018-06-21 12:13:59,065 - mail_parser - INFO - Not email argparserPY.txt, file deleted
+2018-06-21 12:33:44,794 - mail_parser - INFO - The email original_msg_12.txt saved
+2018-06-21 14:48:34,738 - mail_parser - INFO - Not email 0.txt, file deleted
+2018-06-21 14:48:58,581 - mail_parser - INFO - The email original_msg.txt saved
+2018-06-21 15:13:23,367 - mail_parser - INFO - The email 1.txt saved
+2018-06-21 15:13:43,728 - mail_parser - INFO - The email original_msg_11.txt saved
+2018-06-21 15:15:15,201 - mail_parser - INFO - The email msg.test saved
+2018-06-21 15:18:03,704 - mail_parser - INFO - The email msg.test saved
+2018-06-21 15:20:56,151 - mail_parser - INFO - The email msg.test saved
+2018-06-21 20:30:32,040 - mail_parser - INFO - Inserting original_msg_8.txt to database
+2018-06-21 21:03:49,520 - mail_parser - DEBUG - Initializating EmailPayload class object
+2018-06-21 21:03:49,522 - mail_parser - INFO - Getting mail.message.Message object from binary file
+2018-06-21 21:03:49,522 - mail_parser - INFO - Created directory for original file
+2018-06-21 21:03:49,523 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/original_msgs/7eb8c40b-ee39-49f6-b388-eb442136c18e/original_msg_10.txt
+2018-06-21 21:03:49,523 - mail_parser - DEBUG - Calling self.get_mail_parts method to parse mail
+2018-06-21 21:03:49,523 - mail_parser - INFO - starting to parse mail
+2018-06-21 21:03:49,523 - mail_parser - INFO - parsing headers of email
+2018-06-21 21:03:49,523 - mail_parser - DEBUG - Header to decode - =?UTF-8?B?wqEgwqIgwqMgwqQgwqUgwqYgwqcgwqggKGMpIMKqIMKrIMKsIMKtIChSKSDCryDCsCDCsQ==?=
+	=?UTF-8?B?IMKyIMKzIMK0IMK1IMK2IMK3IMK4IMK5IMK6IMK7IMK8IMK9IMK+IMK/IMOAIMOBIMOCIMODIMOEIMOF?=
+	=?UTF-8?B?IMOGIMOHIMOIIMOJIMOKIMOLIMOMIMONIMOOIMOPIMOQIMORIMOSIMOTIMOUIMOVIMOWIMOXIMOYIMOZ?=
+	=?UTF-8?B?IMOaIMObIMOcIMOdIMOeIMOfIMOgIMOhIMOiIMOjIMOkIMOlIMOmIMOnIMOoIMOpIMOqIMOrIMOsIMOt?=
+	=?UTF-8?B?IMOuIMOvIMOwIMOxIMOyIMOzIMO0IMO1IMO2IMO3IMO4IMO5IMO6IMO7IMO8IMO9IMO+IMO/?=
+2018-06-21 21:03:49,523 - mail_parser - DEBUG - Decoded header - ¡ ¢ £ ¤ ¥ ¦ § ¨ (c) ª « ¬ ­ (R) ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ
+2018-06-21 21:03:49,524 - mail_parser - DEBUG - parsed headers in payload {'Date': 1529414946, 'TO': ['vihotrus@gmail.com'], 'FROM': 'vihotrus@gmail.com', 'Original': '/home/ruslan/pythonProject/mail_collector/uploads/original_msgs/7eb8c40b-ee39-49f6-b388-eb442136c18e/original_msg_10.txt', 'Subject': '\xc2\xa1 \xc2\xa2 \xc2\xa3 \xc2\xa4 \xc2\xa5 \xc2\xa6 \xc2\xa7 \xc2\xa8 (c) \xc2\xaa \xc2\xab \xc2\xac \xc2\xad (R) \xc2\xaf \xc2\xb0 \xc2\xb1 \xc2\xb2 \xc2\xb3 \xc2\xb4 \xc2\xb5 \xc2\xb6 \xc2\xb7 \xc2\xb8 \xc2\xb9 \xc2\xba \xc2\xbb \xc2\xbc \xc2\xbd \xc2\xbe \xc2\xbf \xc3\x80 \xc3\x81 \xc3\x82 \xc3\x83 \xc3\x84 \xc3\x85 \xc3\x86 \xc3\x87 \xc3\x88 \xc3\x89 \xc3\x8a \xc3\x8b \xc3\x8c \xc3\x8d \xc3\x8e \xc3\x8f \xc3\x90 \xc3\x91 \xc3\x92 \xc3\x93 \xc3\x94 \xc3\x95 \xc3\x96 \xc3\x97 \xc3\x98 \xc3\x99 \xc3\x9a \xc3\x9b \xc3\x9c \xc3\x9d \xc3\x9e \xc3\x9f \xc3\xa0 \xc3\xa1 \xc3\xa2 \xc3\xa3 \xc3\xa4 \xc3\xa5 \xc3\xa6 \xc3\xa7 \xc3\xa8 \xc3\xa9 \xc3\xaa \xc3\xab \xc3\xac \xc3\xad \xc3\xae \xc3\xaf \xc3\xb0 \xc3\xb1 \xc3\xb2 \xc3\xb3 \xc3\xb4 \xc3\xb5 \xc3\xb6 \xc3\xb7 \xc3\xb8 \xc3\xb9 \xc3\xba \xc3\xbb \xc3\xbc \xc3\xbd \xc3\xbe \xc3\xbf'}
+2018-06-21 21:03:49,524 - mail_parser - INFO - starting parse body
+2018-06-21 21:03:49,524 - mail_parser - INFO - starting parse attachments
+2018-06-21 21:04:07,633 - mail_parser - DEBUG - Initializating EmailPayload class object
+2018-06-21 21:04:07,635 - mail_parser - INFO - Getting mail.message.Message object from binary file
+2018-06-21 21:04:07,635 - mail_parser - INFO - Created directory for original file
+2018-06-21 21:04:07,636 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/original_msgs/aff3314c-6180-4f58-91b9-d4a022058341/original_msg_12.txt
+2018-06-21 21:04:07,636 - mail_parser - DEBUG - Calling self.get_mail_parts method to parse mail
+2018-06-21 21:04:07,636 - mail_parser - INFO - starting to parse mail
+2018-06-21 21:04:07,636 - mail_parser - INFO - parsing headers of email
+2018-06-21 21:04:07,637 - mail_parser - DEBUG - Header to decode - 
+2018-06-21 21:04:07,637 - mail_parser - DEBUG - Decoded header - 
+2018-06-21 21:04:07,638 - mail_parser - DEBUG - parsed headers in payload {'Date': 1529577018, 'TO': ['vihotrus@gmail.com'], 'FROM': 'vihotrus@gmail.com', 'Original': '/home/ruslan/pythonProject/mail_collector/uploads/original_msgs/aff3314c-6180-4f58-91b9-d4a022058341/original_msg_12.txt', 'Subject': '(NO subject)'}
+2018-06-21 21:04:07,638 - mail_parser - INFO - starting parse body
+2018-06-21 21:04:07,638 - mail_parser - INFO - starting parse attachments
+2018-06-21 21:04:07,638 - mail_parser - INFO - created directory to save body
+2018-06-21 21:04:07,638 - mail_parser - INFO - mail has text body
+2018-06-21 21:04:07,639 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/aff3314c-6180-4f58-91b9-d4a022058341/text
+2018-06-21 21:04:07,639 - mail_parser - INFO - mail has html body
+2018-06-21 21:04:07,639 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/aff3314c-6180-4f58-91b9-d4a022058341/html
+2018-06-21 21:04:07,639 - mail_parser - INFO - mail has text body
+2018-06-21 21:04:07,639 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/aff3314c-6180-4f58-91b9-d4a022058341/text
+2018-06-21 21:04:07,640 - mail_parser - DEBUG - Header to decode - 0.txt
+2018-06-21 21:04:07,640 - mail_parser - DEBUG - Decoded header - 0.txt
+2018-06-21 21:04:07,640 - mail_parser - INFO - created directory to save attachments
+2018-06-21 21:04:07,640 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/attachments/aff3314c-6180-4f58-91b9-d4a022058341/0.txt
+2018-06-21 21:04:07,640 - mail_parser - INFO - created attachment payload
+2018-06-21 21:04:07,640 - mail_parser - INFO - adding attachment to attachment list
+2018-06-21 21:04:07,641 - mail_parser - INFO - end with body parsing
+2018-06-21 21:04:07,641 - mail_parser - INFO - End with attachment parsing
+2018-06-21 21:04:07,641 - mail_parser - DEBUG - Calling data_insertion_mysql functo insert original_msg_12.txt
+2018-06-21 21:07:55,340 - mail_parser - DEBUG - Initializating EmailPayload class object
+2018-06-21 21:07:55,343 - mail_parser - INFO - Getting mail.message.Message object from binary file
+2018-06-21 21:07:55,343 - mail_parser - INFO - Created directory for original file
+2018-06-21 21:07:55,346 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/original_msgs/cecb5691-7ef0-48de-a3ef-c23afe056694/1.txt
+2018-06-21 21:07:55,346 - mail_parser - DEBUG - Calling self.get_mail_parts method to parse mail
+2018-06-21 21:07:55,346 - mail_parser - INFO - starting to parse mail
+2018-06-21 21:07:55,346 - mail_parser - INFO - parsing headers of email
+2018-06-21 21:07:55,346 - mail_parser - DEBUG - Header to decode - email with attachment
+2018-06-21 21:07:55,346 - mail_parser - DEBUG - Decoded header - email with attachment
+2018-06-21 21:07:55,347 - mail_parser - DEBUG - parsed headers in payload {'Date': 1528911176, 'TO': ['vihotrus@gmail.com'], 'FROM': 'vihotrus@gmail.com', 'Original': '/home/ruslan/pythonProject/mail_collector/uploads/original_msgs/cecb5691-7ef0-48de-a3ef-c23afe056694/1.txt', 'Subject': 'email with attachment'}
+2018-06-21 21:07:55,347 - mail_parser - INFO - starting parse body
+2018-06-21 21:07:55,347 - mail_parser - INFO - starting parse attachments
+2018-06-21 21:07:55,348 - mail_parser - INFO - created directory to save body
+2018-06-21 21:07:55,348 - mail_parser - INFO - mail has text body
+2018-06-21 21:07:55,348 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/cecb5691-7ef0-48de-a3ef-c23afe056694/text
+2018-06-21 21:07:55,348 - mail_parser - INFO - mail has html body
+2018-06-21 21:07:55,349 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/cecb5691-7ef0-48de-a3ef-c23afe056694/html
+2018-06-21 21:07:55,349 - mail_parser - DEBUG - Header to decode - module 1.docx
+2018-06-21 21:07:55,349 - mail_parser - DEBUG - Decoded header - module 1.docx
+2018-06-21 21:07:55,349 - mail_parser - INFO - created directory to save attachments
+2018-06-21 21:07:55,350 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/attachments/cecb5691-7ef0-48de-a3ef-c23afe056694/module 1.docx
+2018-06-21 21:07:55,350 - mail_parser - INFO - created attachment payload
+2018-06-21 21:07:55,350 - mail_parser - INFO - adding attachment to attachment list
+2018-06-21 21:07:55,350 - mail_parser - INFO - end with body parsing
+2018-06-21 21:07:55,350 - mail_parser - INFO - End with attachment parsing
+2018-06-21 21:07:55,350 - mail_parser - DEBUG - Calling data_insertion_mysql func to insert 1.txt
+2018-06-21 21:07:55,350 - mail_parser - INFO - connecting to db
+2018-06-21 21:07:55,357 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f27a402ceb0>
+2018-06-21 21:07:55,357 - mail_parser - DEBUG - Calling func data_insertion_mysql 
+2018-06-21 21:07:55,358 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:28,567 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:28,579 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd88800d0e0>
+2018-06-21 21:22:28,579 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:28,581 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:28,581 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd88800d0e0>
+2018-06-21 21:22:29,980 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:29,981 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884003780>
+2018-06-21 21:22:29,981 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:29,981 - mail_parser - DEBUG - selecting emeil with id 1
+2018-06-21 21:22:29,982 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:29,982 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884003780>
+2018-06-21 21:22:31,012 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:31,013 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd87c003970>
+2018-06-21 21:22:31,013 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:31,013 - mail_parser - DEBUG - selecting emeil with id 2
+2018-06-21 21:22:31,013 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:31,013 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd87c003970>
+2018-06-21 21:22:33,420 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:33,421 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884005d90>
+2018-06-21 21:22:33,421 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:33,421 - mail_parser - DEBUG - selecting emeil with id 3
+2018-06-21 21:22:33,422 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:33,422 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884005d90>
+2018-06-21 21:22:34,532 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:34,533 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884007d30>
+2018-06-21 21:22:34,533 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:34,533 - mail_parser - DEBUG - selecting emeil with id 4
+2018-06-21 21:22:34,533 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:34,533 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884007d30>
+2018-06-21 21:22:38,694 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:38,696 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd8840099c0>
+2018-06-21 21:22:38,696 - mail_parser - DEBUG - Calling func id_selection 
+2018-06-21 21:22:38,697 - mail_parser - INFO - Selecting mail ids
+2018-06-21 21:22:38,697 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:38,698 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd8840099c0>
+2018-06-21 21:22:41,340 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:41,340 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd88400b650>
+2018-06-21 21:22:41,340 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:41,340 - mail_parser - DEBUG - selecting emeil with id 3
+2018-06-21 21:22:41,341 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:41,341 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd88400b650>
+2018-06-21 21:22:42,218 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:42,220 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd88400cea0>
+2018-06-21 21:22:42,220 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:42,220 - mail_parser - DEBUG - selecting emeil with id 4
+2018-06-21 21:22:42,221 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:42,222 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd88400cea0>
+2018-06-21 21:22:43,451 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:43,453 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd88400e6f0>
+2018-06-21 21:22:43,453 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:43,453 - mail_parser - DEBUG - selecting emeil with id 5
+2018-06-21 21:22:43,455 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:43,455 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd88400e6f0>
+2018-06-21 21:22:45,493 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:45,495 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd88400ff40>
+2018-06-21 21:22:45,495 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:45,495 - mail_parser - DEBUG - selecting emeil with id 6
+2018-06-21 21:22:45,496 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:45,497 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd88400ff40>
+2018-06-21 21:22:46,891 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:46,891 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884011af0>
+2018-06-21 21:22:46,891 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:46,891 - mail_parser - DEBUG - selecting emeil with id 6
+2018-06-21 21:22:46,892 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:46,892 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884011af0>
+2018-06-21 21:22:48,395 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:48,395 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd88400f6c0>
+2018-06-21 21:22:48,395 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:22:48,395 - mail_parser - DEBUG - selecting emeil with id 5
+2018-06-21 21:22:48,396 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:48,396 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd88400f6c0>
+2018-06-21 21:22:50,910 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:50,911 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884002a10>
+2018-06-21 21:22:50,911 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:22:50,911 - mail_parser - INFO - Selecting attachment with id 3
+2018-06-21 21:22:50,911 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:50,912 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884002a10>
+2018-06-21 21:22:52,204 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:52,204 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884007ce0>
+2018-06-21 21:22:52,204 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:22:52,204 - mail_parser - INFO - Selecting attachment with id 4
+2018-06-21 21:22:52,205 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:52,205 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884007ce0>
+2018-06-21 21:22:53,310 - mail_parser - INFO - connecting to db
+2018-06-21 21:22:53,310 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884005d90>
+2018-06-21 21:22:53,311 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:22:53,311 - mail_parser - INFO - Selecting attachment with id 1
+2018-06-21 21:22:53,311 - mail_parser - INFO - Commiting changes
+2018-06-21 21:22:53,311 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884005d90>
+2018-06-21 21:23:04,689 - mail_parser - DEBUG - Initializating EmailPayload class object
+2018-06-21 21:23:04,695 - mail_parser - INFO - Getting mail.message.Message object from binary file
+2018-06-21 21:23:04,695 - mail_parser - INFO - Created directory for original file
+2018-06-21 21:23:04,697 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/original_msgs/a348c049-698b-4415-8360-c913e5c8f1a9/original_msg_8.txt
+2018-06-21 21:23:04,697 - mail_parser - DEBUG - Calling self.get_mail_parts method to parse mail
+2018-06-21 21:23:04,697 - mail_parser - INFO - starting to parse mail
+2018-06-21 21:23:04,697 - mail_parser - INFO - parsing headers of email
+2018-06-21 21:23:04,698 - mail_parser - DEBUG - Header to decode - Enroll now, save now. US$9.99 (our best price!) for select courses during our June Blowout Sale
+2018-06-21 21:23:04,698 - mail_parser - DEBUG - Decoded header - Enroll now, save now. US$9.99 (our best price!) for select courses during our June Blowout Sale
+2018-06-21 21:23:04,698 - mail_parser - DEBUG - parsed headers in payload {'Date': 1528595345, 'TO': ['vihotrus@gmail.com'], 'FROM': 'udemy@email.udemy.com', 'Original': '/home/ruslan/pythonProject/mail_collector/uploads/original_msgs/a348c049-698b-4415-8360-c913e5c8f1a9/original_msg_8.txt', 'Subject': 'Enroll now, save now. US$9.99 (our best price!) for select courses during our June Blowout Sale'}
+2018-06-21 21:23:04,698 - mail_parser - INFO - starting parse body
+2018-06-21 21:23:04,698 - mail_parser - INFO - starting parse attachments
+2018-06-21 21:23:04,699 - mail_parser - INFO - created directory to save body
+2018-06-21 21:23:04,699 - mail_parser - INFO - mail has html body
+2018-06-21 21:23:04,699 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/a348c049-698b-4415-8360-c913e5c8f1a9/html
+2018-06-21 21:23:04,699 - mail_parser - INFO - end with body parsing
+2018-06-21 21:23:04,699 - mail_parser - INFO - End with attachment parsing
+2018-06-21 21:23:04,699 - mail_parser - DEBUG - Calling data_insertion_mysql func to insert original_msg_8.txt
+2018-06-21 21:23:04,699 - mail_parser - INFO - connecting to db
+2018-06-21 21:23:04,700 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd884040120>
+2018-06-21 21:23:04,700 - mail_parser - DEBUG - Calling func data_insertion_mysql 
+2018-06-21 21:23:04,700 - mail_parser - INFO - executing inserting to metadata table
+2018-06-21 21:23:04,701 - mail_parser - DEBUG - insertion id 8
+2018-06-21 21:23:04,701 - mail_parser - INFO - executing inserting to mail_to table
+2018-06-21 21:23:04,701 - mail_parser - INFO - Commiting changes
+2018-06-21 21:23:04,702 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd884040120>
+2018-06-21 21:23:37,798 - mail_parser - INFO - connecting to db
+2018-06-21 21:23:37,798 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd880003290>
+2018-06-21 21:23:37,798 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:23:37,798 - mail_parser - DEBUG - selecting emeil with id 1
+2018-06-21 21:23:37,799 - mail_parser - INFO - Commiting changes
+2018-06-21 21:23:37,799 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd880003290>
+2018-06-21 21:23:37,799 - mail_parser - INFO - connecting to db
+2018-06-21 21:23:37,800 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd880003290>
+2018-06-21 21:23:37,800 - mail_parser - DEBUG - Calling func delete_mail 
+2018-06-21 21:23:37,800 - mail_parser - INFO - Deleting mail with id 1
+2018-06-21 21:23:37,800 - mail_parser - DEBUG - Result of deleting True
+2018-06-21 21:23:37,800 - mail_parser - INFO - Commiting changes
+2018-06-21 21:23:37,801 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd880003290>
+2018-06-21 21:23:38,884 - mail_parser - INFO - connecting to db
+2018-06-21 21:23:38,885 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd880005100>
+2018-06-21 21:23:38,885 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:23:38,885 - mail_parser - DEBUG - selecting emeil with id 2
+2018-06-21 21:23:38,885 - mail_parser - INFO - Commiting changes
+2018-06-21 21:23:38,885 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd880005100>
+2018-06-21 21:23:40,053 - mail_parser - INFO - connecting to db
+2018-06-21 21:23:40,053 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd880006330>
+2018-06-21 21:23:40,054 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:23:40,054 - mail_parser - DEBUG - selecting emeil with id 3
+2018-06-21 21:23:40,054 - mail_parser - INFO - Commiting changes
+2018-06-21 21:23:40,054 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd880006330>
+2018-06-21 21:23:40,054 - mail_parser - INFO - connecting to db
+2018-06-21 21:23:40,055 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7fd880006330>
+2018-06-21 21:23:40,055 - mail_parser - DEBUG - Calling func delete_mail 
+2018-06-21 21:23:40,055 - mail_parser - INFO - Deleting mail with id 3
+2018-06-21 21:23:40,055 - mail_parser - DEBUG - Result of deleting True
+2018-06-21 21:23:40,055 - mail_parser - INFO - Commiting changes
+2018-06-21 21:23:40,056 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7fd880006330>
+2018-06-21 21:41:08,428 - mail_parser - INFO - Getting mail from id 4
+2018-06-21 21:41:08,428 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:08,438 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f296800e900>
+2018-06-21 21:41:08,439 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:08,439 - mail_parser - DEBUG - selecting emeil with id 4
+2018-06-21 21:41:08,439 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:08,439 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f296800e900>
+2018-06-21 21:41:08,440 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:08,440 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:08,440 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:09,993 - mail_parser - INFO - Getting mail from id 3
+2018-06-21 21:41:09,993 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:09,994 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2960003740>
+2018-06-21 21:41:09,994 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:09,994 - mail_parser - DEBUG - selecting emeil with id 3
+2018-06-21 21:41:09,994 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:09,994 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2960003740>
+2018-06-21 21:41:09,995 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:13,796 - mail_parser - INFO - Getting mail from id 21
+2018-06-21 21:41:13,796 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:13,796 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f29680182e0>
+2018-06-21 21:41:13,797 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:13,797 - mail_parser - DEBUG - selecting emeil with id 21
+2018-06-21 21:41:13,797 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:13,797 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f29680182e0>
+2018-06-21 21:41:13,797 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:15,266 - mail_parser - INFO - Getting mail from id 2
+2018-06-21 21:41:15,266 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:15,267 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968019f70>
+2018-06-21 21:41:15,267 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:15,267 - mail_parser - DEBUG - selecting emeil with id 2
+2018-06-21 21:41:15,267 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:15,268 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968019f70>
+2018-06-21 21:41:15,268 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:16,523 - mail_parser - INFO - Getting mail from id 5
+2018-06-21 21:41:16,523 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:16,524 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f296801bc00>
+2018-06-21 21:41:16,524 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:16,524 - mail_parser - DEBUG - selecting emeil with id 5
+2018-06-21 21:41:16,524 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:16,524 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f296801bc00>
+2018-06-21 21:41:16,525 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:16,525 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:16,525 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:20,590 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:20,590 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f296801d140>
+2018-06-21 21:41:20,590 - mail_parser - DEBUG - Calling func id_selection 
+2018-06-21 21:41:20,591 - mail_parser - INFO - Selecting mail ids
+2018-06-21 21:41:20,591 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:20,591 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f296801d140>
+2018-06-21 21:41:23,430 - mail_parser - INFO - Starting body showwing
+2018-06-21 21:41:23,430 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:23,431 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968032ba0>
+2018-06-21 21:41:23,431 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:23,431 - mail_parser - DEBUG - selecting emeil with id 8
+2018-06-21 21:41:23,433 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:23,433 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968032ba0>
+2018-06-21 21:41:25,423 - mail_parser - INFO - Starting body showwing
+2018-06-21 21:41:25,424 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:25,425 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f29680343f0>
+2018-06-21 21:41:25,425 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:25,425 - mail_parser - DEBUG - selecting emeil with id 6
+2018-06-21 21:41:25,426 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:25,426 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f29680343f0>
+2018-06-21 21:41:26,551 - mail_parser - INFO - Starting body showwing
+2018-06-21 21:41:26,552 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:26,553 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968035c40>
+2018-06-21 21:41:26,553 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:26,553 - mail_parser - DEBUG - selecting emeil with id 7
+2018-06-21 21:41:26,554 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:26,554 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968035c40>
+2018-06-21 21:41:28,130 - mail_parser - INFO - Starting body showwing
+2018-06-21 21:41:28,130 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:28,130 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968037490>
+2018-06-21 21:41:28,130 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:28,131 - mail_parser - DEBUG - selecting emeil with id 8
+2018-06-21 21:41:28,131 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:28,131 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968037490>
+2018-06-21 21:41:30,788 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:30,788 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f296801b480>
+2018-06-21 21:41:30,788 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:41:30,788 - mail_parser - INFO - Selecting attachment with id 3
+2018-06-21 21:41:30,789 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:30,789 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f296801b480>
+2018-06-21 21:41:32,035 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:32,035 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f296801bc00>
+2018-06-21 21:41:32,035 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:41:32,036 - mail_parser - INFO - Selecting attachment with id 1
+2018-06-21 21:41:32,036 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:32,036 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f296801bc00>
+2018-06-21 21:41:33,493 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:33,493 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968030ec0>
+2018-06-21 21:41:33,493 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:41:33,494 - mail_parser - INFO - Selecting attachment with id 6
+2018-06-21 21:41:33,494 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:33,494 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968030ec0>
+2018-06-21 21:41:34,621 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:34,623 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968018720>
+2018-06-21 21:41:34,623 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:41:34,624 - mail_parser - INFO - Selecting attachment with id 7
+2018-06-21 21:41:34,625 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:34,625 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968018720>
+2018-06-21 21:41:39,405 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:41:39,406 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:39,406 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968032eb0>
+2018-06-21 21:41:39,406 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:39,407 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:39,407 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968032eb0>
+2018-06-21 21:41:39,407 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:41:39,407 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,407 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,407 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,407 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,407 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,407 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,407 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,408 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,863 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:41:39,863 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:39,863 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968036720>
+2018-06-21 21:41:39,863 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:41:39,864 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:39,865 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968036720>
+2018-06-21 21:41:39,865 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:41:39,865 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,866 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:39,866 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:41:39,866 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:41:39,866 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:41:39,866 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:41:45,426 - mail_parser - DEBUG - Initializating EmailPayload class object
+2018-06-21 21:41:45,427 - mail_parser - INFO - Getting mail.message.Message object from binary file
+2018-06-21 21:41:45,427 - mail_parser - INFO - Created directory for original file
+2018-06-21 21:41:45,428 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/original_msgs/32d3f15b-e9a1-425a-92e5-794a6a249d4c/original_msg_11.txt
+2018-06-21 21:41:45,428 - mail_parser - DEBUG - Calling self.get_mail_parts method to parse mail
+2018-06-21 21:41:45,428 - mail_parser - INFO - starting to parse mail
+2018-06-21 21:41:45,429 - mail_parser - INFO - parsing headers of email
+2018-06-21 21:41:45,429 - mail_parser - DEBUG - Header to decode - =?UTF-8?B?4KaBIOCmgiDgpoMg4KaFIOCmhiDgpocg4KaIIOCmiSDgpoog4KaLIOCmjCDgpo8g4KaQIA==?=
+	=?UTF-8?B?4KaTIOCmlCDgppUg4KaWIOCmlyDgppgg4KaZIOCmmiDgppsg4KacIOCmnSDgpp4g4KafIOCmoCDgpqEg?=
+	=?UTF-8?B?4KaiIOCmoyDgpqQg4KalIOCmpiDgpqcg4KaoIOCmqiDgpqsg4KasIOCmrSDgpq4g4KavIOCmsCDgprIg?=
+	=?UTF-8?B?4Ka2IOCmtyDgprgg4Ka5IOCmvCDgpr4g4Ka/IOCngCDgp4Eg4KeCIOCngyDgp4Qg4KeHIOCniCDgp4sg?=
+	=?UTF-8?B?4KeMIOCnjSDgp5cg4KecIOCnnSDgp58g4KegIOCnoSDgp6Ig4KejIOCnpiDgp6cg4KeoIOCnqSDgp6og?=
+	=?UTF-8?B?4KerIOCnrCDgp60g4KeuIOCnryDgp7Ag4KexIOCnsiDgp7Mg4Ke0IOCntSDgp7Yg4Ke3IOCnuCDgp7kg?=
+	=?UTF-8?B?4Ke6?=
+2018-06-21 21:41:45,429 - mail_parser - DEBUG - Decoded header - ঁ ং ঃ অ আ ই ঈ উ ঊ ঋ ঌ এ ঐ ও ঔ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স হ ় া ি ী ু ূ ৃ ৄ ে ৈ ো ৌ ্ ৗ ড় ঢ় য় ৠ ৡ ৢ ৣ ০ ১ ২ ৩ ৪ ৫ ৬ ৭ ৮ ৯ ৰ ৱ ৲ ৳ ৴ ৵ ৶ ৷ ৸ ৹ ৺
+2018-06-21 21:41:45,430 - mail_parser - DEBUG - parsed headers in payload {'Date': 1529415076, 'TO': ['vihotrus@gmail.com'], 'FROM': 'vihotrus@gmail.com', 'Original': '/home/ruslan/pythonProject/mail_collector/uploads/original_msgs/32d3f15b-e9a1-425a-92e5-794a6a249d4c/original_msg_11.txt', 'Subject': '\xe0\xa6\x81 \xe0\xa6\x82 \xe0\xa6\x83 \xe0\xa6\x85 \xe0\xa6\x86 \xe0\xa6\x87 \xe0\xa6\x88 \xe0\xa6\x89 \xe0\xa6\x8a \xe0\xa6\x8b \xe0\xa6\x8c \xe0\xa6\x8f \xe0\xa6\x90 \xe0\xa6\x93 \xe0\xa6\x94 \xe0\xa6\x95 \xe0\xa6\x96 \xe0\xa6\x97 \xe0\xa6\x98 \xe0\xa6\x99 \xe0\xa6\x9a \xe0\xa6\x9b \xe0\xa6\x9c \xe0\xa6\x9d \xe0\xa6\x9e \xe0\xa6\x9f \xe0\xa6\xa0 \xe0\xa6\xa1 \xe0\xa6\xa2 \xe0\xa6\xa3 \xe0\xa6\xa4 \xe0\xa6\xa5 \xe0\xa6\xa6 \xe0\xa6\xa7 \xe0\xa6\xa8 \xe0\xa6\xaa \xe0\xa6\xab \xe0\xa6\xac \xe0\xa6\xad \xe0\xa6\xae \xe0\xa6\xaf \xe0\xa6\xb0 \xe0\xa6\xb2 \xe0\xa6\xb6 \xe0\xa6\xb7 \xe0\xa6\xb8 \xe0\xa6\xb9 \xe0\xa6\xbc \xe0\xa6\xbe \xe0\xa6\xbf \xe0\xa7\x80 \xe0\xa7\x81 \xe0\xa7\x82 \xe0\xa7\x83 \xe0\xa7\x84 \xe0\xa7\x87 \xe0\xa7\x88 \xe0\xa7\x8b \xe0\xa7\x8c \xe0\xa7\x8d \xe0\xa7\x97 \xe0\xa7\x9c \xe0\xa7\x9d \xe0\xa7\x9f \xe0\xa7\xa0 \xe0\xa7\xa1 \xe0\xa7\xa2 \xe0\xa7\xa3 \xe0\xa7\xa6 \xe0\xa7\xa7 \xe0\xa7\xa8 \xe0\xa7\xa9 \xe0\xa7\xaa \xe0\xa7\xab \xe0\xa7\xac \xe0\xa7\xad \xe0\xa7\xae \xe0\xa7\xaf \xe0\xa7\xb0 \xe0\xa7\xb1 \xe0\xa7\xb2 \xe0\xa7\xb3 \xe0\xa7\xb4 \xe0\xa7\xb5 \xe0\xa7\xb6 \xe0\xa7\xb7 \xe0\xa7\xb8 \xe0\xa7\xb9 \xe0\xa7\xba'}
+2018-06-21 21:41:45,430 - mail_parser - INFO - starting parse body
+2018-06-21 21:41:45,430 - mail_parser - INFO - starting parse attachments
+2018-06-21 21:41:45,431 - mail_parser - INFO - created directory to save body
+2018-06-21 21:41:45,431 - mail_parser - INFO - mail has text body
+2018-06-21 21:41:45,431 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/32d3f15b-e9a1-425a-92e5-794a6a249d4c/text
+2018-06-21 21:41:45,431 - mail_parser - INFO - mail has html body
+2018-06-21 21:41:45,431 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/32d3f15b-e9a1-425a-92e5-794a6a249d4c/html
+2018-06-21 21:41:45,432 - mail_parser - INFO - end with body parsing
+2018-06-21 21:41:45,432 - mail_parser - INFO - End with attachment parsing
+2018-06-21 21:41:45,432 - mail_parser - DEBUG - Calling data_insertion_mysql func to insert original_msg_11.txt
+2018-06-21 21:41:45,432 - mail_parser - INFO - connecting to db
+2018-06-21 21:41:45,432 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f2968017880>
+2018-06-21 21:41:45,433 - mail_parser - DEBUG - Calling func data_insertion_mysql 
+2018-06-21 21:41:45,433 - mail_parser - INFO - executing inserting to metadata table
+2018-06-21 21:41:45,433 - mail_parser - DEBUG - insertion id 9
+2018-06-21 21:41:45,433 - mail_parser - INFO - executing inserting to mail_to table
+2018-06-21 21:41:45,433 - mail_parser - INFO - Commiting changes
+2018-06-21 21:41:45,435 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f2968017880>
+2018-06-21 21:42:54,264 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:42:54,264 - mail_parser - INFO - connecting to db
+2018-06-21 21:42:54,276 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f462000e900>
+2018-06-21 21:42:54,277 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:42:54,277 - mail_parser - INFO - Commiting changes
+2018-06-21 21:42:54,278 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f462000e900>
+2018-06-21 21:42:54,278 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:42:54,278 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:42:54,279 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:42:56,986 - mail_parser - INFO - Getting mail from id 4
+2018-06-21 21:42:56,986 - mail_parser - INFO - connecting to db
+2018-06-21 21:42:56,987 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618003740>
+2018-06-21 21:42:56,987 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:42:56,987 - mail_parser - DEBUG - selecting emeil with id 4
+2018-06-21 21:42:56,987 - mail_parser - INFO - Commiting changes
+2018-06-21 21:42:56,987 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618003740>
+2018-06-21 21:42:56,987 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:42:56,988 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:42:56,988 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:42:58,892 - mail_parser - INFO - Getting mail from id 43
+2018-06-21 21:42:58,892 - mail_parser - INFO - connecting to db
+2018-06-21 21:42:58,893 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f461c003740>
+2018-06-21 21:42:58,893 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:42:58,893 - mail_parser - DEBUG - selecting emeil with id 43
+2018-06-21 21:42:58,894 - mail_parser - INFO - Commiting changes
+2018-06-21 21:42:58,894 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f461c003740>
+2018-06-21 21:42:58,894 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:43:01,784 - mail_parser - INFO - connecting to db
+2018-06-21 21:43:01,785 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4610003a90>
+2018-06-21 21:43:01,785 - mail_parser - DEBUG - Calling func id_selection 
+2018-06-21 21:43:01,785 - mail_parser - INFO - Selecting mail ids
+2018-06-21 21:43:01,785 - mail_parser - INFO - Commiting changes
+2018-06-21 21:43:01,785 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4610003a90>
+2018-06-21 21:47:34,707 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:47:34,708 - mail_parser - INFO - connecting to db
+2018-06-21 21:47:34,711 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618005d00>
+2018-06-21 21:47:34,711 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:47:34,714 - mail_parser - INFO - Commiting changes
+2018-06-21 21:47:34,715 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618005d00>
+2018-06-21 21:47:34,716 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:47:34,716 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:34,716 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:34,716 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:34,717 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:34,717 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:34,718 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:34,718 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:34,718 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:34,718 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:34,718 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:34,719 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:34,719 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:34,719 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:34,719 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:34,719 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:34,719 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:34,719 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:34,720 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:34,720 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:34,720 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:35,162 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:47:35,162 - mail_parser - INFO - connecting to db
+2018-06-21 21:47:35,165 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618007fb0>
+2018-06-21 21:47:35,165 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:47:35,167 - mail_parser - INFO - Commiting changes
+2018-06-21 21:47:35,168 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618007fb0>
+2018-06-21 21:47:35,168 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:47:35,168 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:35,169 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:35,170 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:35,171 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:35,171 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:35,171 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:36,951 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:47:36,951 - mail_parser - INFO - connecting to db
+2018-06-21 21:47:36,952 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618009f50>
+2018-06-21 21:47:36,953 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:47:36,954 - mail_parser - INFO - Commiting changes
+2018-06-21 21:47:36,955 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618009f50>
+2018-06-21 21:47:36,955 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:47:36,955 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:36,955 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:36,956 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:36,956 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:36,956 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:36,956 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:36,956 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:36,956 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:36,957 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:36,957 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:36,957 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:36,957 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:36,957 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:36,957 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:36,958 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:36,958 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:36,958 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:36,958 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:36,958 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:36,958 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,332 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:47:37,332 - mail_parser - INFO - connecting to db
+2018-06-21 21:47:37,333 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f461800c200>
+2018-06-21 21:47:37,333 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:47:37,335 - mail_parser - INFO - Commiting changes
+2018-06-21 21:47:37,335 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f461800c200>
+2018-06-21 21:47:37,335 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:47:37,335 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:37,336 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,337 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,337 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,337 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:37,337 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,337 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,337 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,337 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,338 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,338 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,338 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,338 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,542 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:47:37,543 - mail_parser - INFO - connecting to db
+2018-06-21 21:47:37,543 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f461800e1a0>
+2018-06-21 21:47:37,543 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:47:37,544 - mail_parser - INFO - Commiting changes
+2018-06-21 21:47:37,544 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f461800e1a0>
+2018-06-21 21:47:37,544 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,544 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,545 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,710 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:47:37,710 - mail_parser - INFO - connecting to db
+2018-06-21 21:47:37,710 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f46180085d0>
+2018-06-21 21:47:37,710 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:47:37,711 - mail_parser - INFO - Commiting changes
+2018-06-21 21:47:37,711 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f46180085d0>
+2018-06-21 21:47:37,711 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:47:37,711 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,711 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,711 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,711 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,711 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,711 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,711 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:47:37,712 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:55:51,764 - mail_parser - INFO - Getting mail from id 43
+2018-06-21 21:55:51,764 - mail_parser - INFO - connecting to db
+2018-06-21 21:55:51,765 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f46180047c0>
+2018-06-21 21:55:51,766 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:55:51,766 - mail_parser - DEBUG - selecting emeil with id 43
+2018-06-21 21:55:51,767 - mail_parser - INFO - Commiting changes
+2018-06-21 21:55:51,767 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f46180047c0>
+2018-06-21 21:55:51,767 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:53,865 - mail_parser - INFO - Getting mail from id 4
+2018-06-21 21:55:53,865 - mail_parser - INFO - connecting to db
+2018-06-21 21:55:53,866 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f46180065b0>
+2018-06-21 21:55:53,866 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:55:53,866 - mail_parser - DEBUG - selecting emeil with id 4
+2018-06-21 21:55:53,866 - mail_parser - INFO - Commiting changes
+2018-06-21 21:55:53,866 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f46180065b0>
+2018-06-21 21:55:53,866 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:53,866 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:55:53,866 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:55:56,115 - mail_parser - INFO - Getting mails from db
+2018-06-21 21:55:56,115 - mail_parser - INFO - connecting to db
+2018-06-21 21:55:56,116 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f46100052e0>
+2018-06-21 21:55:56,116 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:55:56,118 - mail_parser - INFO - Commiting changes
+2018-06-21 21:55:56,118 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f46100052e0>
+2018-06-21 21:55:56,118 - mail_parser - INFO - Creating dictionary with mail_id's
+2018-06-21 21:55:56,118 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:56,118 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:55:56,118 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:55:56,118 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:56,118 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:55:56,118 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating attachment showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:55:56,119 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:55:56,120 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:55:56,120 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:55:56,120 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:56:00,331 - mail_parser - DEBUG - Initializating EmailPayload class object
+2018-06-21 21:56:01,314 - mail_parser - INFO - Getting mail.message.Message object from binary file
+2018-06-21 21:56:01,314 - mail_parser - INFO - Created directory for original file
+2018-06-21 21:56:01,605 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/original_msgs/b30ee0a5-5872-42ca-b29b-3ce14363d07d/original_msg_9.txt
+2018-06-21 21:56:01,606 - mail_parser - DEBUG - Calling self.get_mail_parts method to parse mail
+2018-06-21 21:56:01,606 - mail_parser - INFO - starting to parse mail
+2018-06-21 21:56:01,606 - mail_parser - INFO - parsing headers of email
+2018-06-21 21:56:01,606 - mail_parser - DEBUG - Header to decode - =?UTF-8?B?4oCh4oCh4oCe4oChy4ZNNi1F4peYKSdKVVU6RWAn4payKcOGTsOSLWbDusOhw5TDlGEt?=
+	=?UTF-8?B?xb5T4oCww6HCr8OG?=
+2018-06-21 21:56:01,606 - mail_parser - DEBUG - Decoded header - ‡‡„‡ˆM6-E◘)'JUU:E`'▲)ÆNÒ-fúáÔÔa-žS‰á¯Æ
+2018-06-21 21:56:01,607 - mail_parser - DEBUG - parsed headers in payload {'Date': 1529074342, 'TO': ['vihotrus@gmail.com', 'rulik1369@gmail.com'], 'FROM': 'vihotrus@gmail.com', 'Original': '/home/ruslan/pythonProject/mail_collector/uploads/original_msgs/b30ee0a5-5872-42ca-b29b-3ce14363d07d/original_msg_9.txt', 'Subject': "\xe2\x80\xa1\xe2\x80\xa1\xe2\x80\x9e\xe2\x80\xa1\xcb\x86M6-E\xe2\x97\x98)'JUU:E`'\xe2\x96\xb2)\xc3\x86N\xc3\x92-f\xc3\xba\xc3\xa1\xc3\x94\xc3\x94a-\xc5\xbeS\xe2\x80\xb0\xc3\xa1\xc2\xaf\xc3\x86"}
+2018-06-21 21:56:01,607 - mail_parser - INFO - starting parse body
+2018-06-21 21:56:01,607 - mail_parser - INFO - starting parse attachments
+2018-06-21 21:56:01,607 - mail_parser - INFO - created directory to save body
+2018-06-21 21:56:01,607 - mail_parser - INFO - mail has text body
+2018-06-21 21:56:01,608 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/b30ee0a5-5872-42ca-b29b-3ce14363d07d/text
+2018-06-21 21:56:01,608 - mail_parser - INFO - mail has html body
+2018-06-21 21:56:01,608 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/mail_bodies/b30ee0a5-5872-42ca-b29b-3ce14363d07d/html
+2018-06-21 21:56:01,608 - mail_parser - DEBUG - Header to decode - =?UTF-8?B?0J7RgtGA0Y/QtCDQn9GD0YLQuNC90LAubXA=?=
+	=?UTF-8?B?NA==?=
+2018-06-21 21:56:01,608 - mail_parser - DEBUG - Decoded header - Отряд Путина.mp4
+2018-06-21 21:56:01,608 - mail_parser - INFO - created directory to save attachments
+2018-06-21 21:56:01,630 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/attachments/b30ee0a5-5872-42ca-b29b-3ce14363d07d/Отряд Путина.mp4
+2018-06-21 21:56:01,638 - mail_parser - INFO - created attachment payload
+2018-06-21 21:56:01,638 - mail_parser - INFO - adding attachment to attachment list
+2018-06-21 21:56:01,638 - mail_parser - DEBUG - Header to decode - video.mp4
+2018-06-21 21:56:01,638 - mail_parser - DEBUG - Decoded header - video.mp4
+2018-06-21 21:56:01,657 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/attachments/b30ee0a5-5872-42ca-b29b-3ce14363d07d/video.mp4
+2018-06-21 21:56:01,664 - mail_parser - INFO - created attachment payload
+2018-06-21 21:56:01,664 - mail_parser - INFO - adding attachment to attachment list
+2018-06-21 21:56:01,665 - mail_parser - DEBUG - Header to decode - TPIS_1.doc
+2018-06-21 21:56:01,665 - mail_parser - DEBUG - Decoded header - TPIS_1.doc
+2018-06-21 21:56:01,666 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/attachments/b30ee0a5-5872-42ca-b29b-3ce14363d07d/TPIS_1.doc
+2018-06-21 21:56:01,666 - mail_parser - INFO - created attachment payload
+2018-06-21 21:56:01,666 - mail_parser - INFO - adding attachment to attachment list
+2018-06-21 21:56:01,666 - mail_parser - DEBUG - Header to decode - =?UTF-8?B?0JvQuNC80L7QvdGH0LXQu9C70Lhf0KJfLF/QpdC+0LPQsNC9X9CaXyxf0KfQtdC50LvQsNC/LnBkZg==?=
+2018-06-21 21:56:01,666 - mail_parser - DEBUG - Decoded header - Лимончелли_Т_,_Хоган_К_,_Чейлап.pdf
+2018-06-21 21:56:01,695 - mail_parser - DEBUG - Saved file to /home/ruslan/pythonProject/mail_collector/uploads/attachments/b30ee0a5-5872-42ca-b29b-3ce14363d07d/Лимончелли_Т_,_Хоган_К_,_Чейлап.pdf
+2018-06-21 21:56:01,715 - mail_parser - INFO - created attachment payload
+2018-06-21 21:56:01,716 - mail_parser - INFO - adding attachment to attachment list
+2018-06-21 21:56:01,716 - mail_parser - INFO - end with body parsing
+2018-06-21 21:56:01,716 - mail_parser - INFO - End with attachment parsing
+2018-06-21 21:56:01,716 - mail_parser - DEBUG - Calling data_insertion_mysql func to insert original_msg_9.txt
+2018-06-21 21:56:01,716 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:01,729 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618018800>
+2018-06-21 21:56:01,730 - mail_parser - DEBUG - Calling func data_insertion_mysql 
+2018-06-21 21:56:01,730 - mail_parser - INFO - executing inserting to metadata table
+2018-06-21 21:56:01,730 - mail_parser - DEBUG - insertion id 10
+2018-06-21 21:56:01,730 - mail_parser - INFO - executing inserting to mail_to table
+2018-06-21 21:56:01,730 - mail_parser - INFO - executing inserting to mail_to table
+2018-06-21 21:56:01,730 - mail_parser - INFO - Executing inserting to attachment table
+2018-06-21 21:56:01,731 - mail_parser - INFO - Executing inserting to attachment table
+2018-06-21 21:56:01,731 - mail_parser - INFO - Executing inserting to attachment table
+2018-06-21 21:56:01,731 - mail_parser - INFO - Executing inserting to attachment table
+2018-06-21 21:56:01,731 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:01,761 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618018800>
+2018-06-21 21:56:04,670 - mail_parser - INFO - Getting mail from id 4
+2018-06-21 21:56:04,671 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:04,671 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f46100076e0>
+2018-06-21 21:56:04,671 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:56:04,671 - mail_parser - DEBUG - selecting emeil with id 4
+2018-06-21 21:56:04,672 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:04,672 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f46100076e0>
+2018-06-21 21:56:04,672 - mail_parser - INFO - Modificating email to user show
+2018-06-21 21:56:04,672 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 21:56:04,672 - mail_parser - INFO - Modificating metadata showwing
+2018-06-21 21:56:06,789 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:06,790 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618022750>
+2018-06-21 21:56:06,790 - mail_parser - DEBUG - Calling func id_selection 
+2018-06-21 21:56:06,790 - mail_parser - INFO - Selecting mail ids
+2018-06-21 21:56:06,790 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:06,791 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618022750>
+2018-06-21 21:56:09,987 - mail_parser - INFO - Starting body showwing
+2018-06-21 21:56:09,988 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:09,989 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f461c005810>
+2018-06-21 21:56:09,989 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:56:09,990 - mail_parser - DEBUG - selecting emeil with id 9
+2018-06-21 21:56:09,991 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:09,991 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f461c005810>
+2018-06-21 21:56:11,653 - mail_parser - INFO - Starting body showwing
+2018-06-21 21:56:11,653 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:11,654 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4620019c90>
+2018-06-21 21:56:11,654 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:56:11,655 - mail_parser - DEBUG - selecting emeil with id 7
+2018-06-21 21:56:11,655 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:11,656 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4620019c90>
+2018-06-21 21:56:14,503 - mail_parser - INFO - Starting body showwing
+2018-06-21 21:56:14,503 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:14,503 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f46180243e0>
+2018-06-21 21:56:14,503 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 21:56:14,504 - mail_parser - DEBUG - selecting emeil with id 78
+2018-06-21 21:56:14,504 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:14,504 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f46180243e0>
+2018-06-21 21:56:17,262 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:17,263 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618023dc0>
+2018-06-21 21:56:17,263 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:56:17,263 - mail_parser - INFO - Selecting attachment with id 4
+2018-06-21 21:56:17,263 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:17,264 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618023dc0>
+2018-06-21 21:56:18,918 - mail_parser - INFO - connecting to db
+2018-06-21 21:56:18,919 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f4618025d60>
+2018-06-21 21:56:18,919 - mail_parser - DEBUG - Calling func select_attachment 
+2018-06-21 21:56:18,919 - mail_parser - INFO - Selecting attachment with id 3
+2018-06-21 21:56:18,919 - mail_parser - INFO - Commiting changes
+2018-06-21 21:56:18,919 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f4618025d60>
+2018-06-21 22:15:33,162 - mail_parser - INFO - Getting mail from id 4
+2018-06-21 22:15:33,162 - mail_parser - INFO - connecting to db
+2018-06-21 22:15:33,164 - mail_parser - DEBUG - Connected <_mysql.connection open to 'localhost' at 7f46180279f0>
+2018-06-21 22:15:33,164 - mail_parser - DEBUG - Calling func data_selection 
+2018-06-21 22:15:33,164 - mail_parser - DEBUG - selecting emeil with id 4
+2018-06-21 22:15:33,164 - mail_parser - INFO - Commiting changes
+2018-06-21 22:15:33,164 - mail_parser - DEBUG - Closing connection <_mysql.connection open to 'localhost' at 7f46180279f0>
+2018-06-21 22:15:33,164 - mail_parser - INFO - Modificating email to user show
+2018-06-21 22:15:33,164 - mail_parser - INFO - Modificating recipient showwing
+2018-06-21 22:15:33,164 - mail_parser - INFO - Modificating metadata showwing
