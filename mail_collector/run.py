@@ -8,19 +8,19 @@ from src.config_init import logger
 from argparse import ArgumentParser, RawTextHelpFormatter, SUPPRESS
 from werkzeug.utils import secure_filename
 
-#app init
+# app init
 app = Flask(__name__)
 app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 @app.route("/", methods=['GET', 'POST'])
 @app.route("/home/", methods=['GET', 'POST'])
 def home_page():
-    # posting new messages and get home page
+    # Posting new messages and get home page
     if request.method == 'POST':
         logger.info("Posting new message")
         if 'file' not in request.files:
             flash('No file part')
-            return redirect(request.url)
+            return redirect("/home/")
         mail_source = request.files['file']
         mail_name = secure_filename(mail_source.filename)
         mail = EmailPayload(mail_source, mail_name)
@@ -32,7 +32,7 @@ def home_page():
         else:
             flash('Not email')
             logger.info("File is not email")
-            return redirect(request.url)
+            return redirect("/home/")
     elif request.method == 'GET':
         return render_template('home.html')
 
@@ -42,9 +42,9 @@ def about():
 
 @app.route("/mail_text/<int:mail_id>", methods=['GET'])
 def get_mail_body(mail_id):
-    # return mail body if email is in database
+    # Return mail body if email is in database
     visible = db_filtres.show_body(mail_id)
-    if len(visible) == 0:
+    if visible is None:
         abort(404)
     return visible
 
@@ -63,7 +63,7 @@ def get_mails_ids():
 @app.route("/get_attachment/<int:at_id>", methods=['GET'])
 def get_attachment(at_id):
     attachment = db.select_attachment(at_id)
-    if len(attachment) == 0:
+    if not attachment:
         abort(404)
     attachment = attachment[0]
     try:
@@ -85,7 +85,7 @@ def get_mail(mail_id):
     return jsonify(mail)
 
 @app.route('/mails/<int:mail_id>', methods=['PUT'])
-def post_mail(mail_id):
+def put_mail(mail_id):
     info_to_update = request.json
     if not info_to_update:
         abort(400)
