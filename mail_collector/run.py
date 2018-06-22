@@ -50,13 +50,13 @@ def get_mail_body(mail_id):
 
 @app.route('/mails/', methods=['GET'])
 def upload_mail():
-    logger.info("getting user readable mails")
+    logger.info("Getting user readable mails")
     mails = db_filtres.get_mails()
     return jsonify(mails)
 
 @app.route("/mail_ids/", methods=['GET'])
 def get_mails_ids():
-    logger.info("Getting user readavle mail with id %s" % (mail_id, ))
+    logger.info("Getting all email ids")
     ids = db.id_selection()
     return jsonify(ids)
 
@@ -78,6 +78,7 @@ def get_attachment(at_id):
 
 @app.route('/mails/<int:mail_id>', methods=['GET'])
 def get_mail(mail_id):
+    logger.info("Getting email with id %s" % (mail_id, ))
     mail = db_filtres.get_mail(mail_id)
     if len(mail) == 0:
         abort(404)
